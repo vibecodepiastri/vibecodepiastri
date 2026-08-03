@@ -1,6 +1,6 @@
 #studiousdoodle
 
-<p align="center">![](https://komarev.com/ghpvc/?username=vibecodepiastri&label=papayas&color=orange)</p>
+<p align="center">![](https://komarev.com/ghpvc/?username=vibecodepiastri&color=green)</p>
 
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2RhMjI5cjRvbjY2MDdxNzI5cmx1dTQxeGw2bHJvamJtamk2MmhtNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L2W1uHP3SMjRhfk0dk/giphy.gif" />
 
