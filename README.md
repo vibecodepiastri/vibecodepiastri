@@ -12,6 +12,13 @@
 
 <p align="center"> **<code style="color : #292739"> if you like f1 please interact with me! C+H is ok I really like cuddling ;) and whisper to interact!!  </code>** </p>
 
+<p align="center"> 
+  <a href="https://oscarpiastri.com" target="_blank">
+  <img src="https://github.com/user-attachments/assets/425986b0-439c-434c-9d12-ea1dbdd58878" alt="mi strawpage" width="48%">
+</a>
+
+<p align="center"> click the helmet!! </p>
+
 <p> SEEU SONG BREAK!!!</p>
 
 https://github.com/user-attachments/assets/e424bb0e-c8dd-4972-b0dd-f32a8b42962a
