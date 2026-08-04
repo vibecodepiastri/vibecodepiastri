@@ -1,6 +1,8 @@
 <p align="center"> <img src=https://komarev.com/ghpvc/?username=vibecodepiastri&color=FF8000&label=op81&style=plastic&abbreviated=true"/> </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Parabolica&duration=3000&pause=1000&color=F7AD42&center=true&width=435&lines=Enjoy+the+butterflies%2C;enjoy+being+na%C3%AFve.;Enjoy+the+nerves%2C+the+pressure%2C;people+not+knowing+your+name.;Enjoy+the+process;of+making+a+name+for+yourself.)](https://git.io/typing-svg)
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Parabolica&duration=3000&pause=1000&color=F7AD42&center=true&width=435&lines=Enjoy+the+butterflies%2C;enjoy+being+na%C3%AFve.;Enjoy+the+nerves%2C+the+pressure%2C;people+not+knowing+your+name.;Enjoy+the+process;of+making+a+name+for+yourself." alt="Typing SVG" /></a>
+</div>
 
 <p align="center"> <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2RhMjI5cjRvbjY2MDdxNzI5cmx1dTQxeGw2bHJvamJtamk2MmhtNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L2W1uHP3SMjRhfk0dk/giphy.gif" /> </p>
 
