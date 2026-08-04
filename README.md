@@ -6,7 +6,7 @@
 <p align="center"> i normally wait to be noticed by ppl so dont think that i wont answer any whispers ;DD </p>
 <p align="center"> i’m an artist and a professional dummy! </p>
 
-**<code style="color : #292739"> if you like f1 please interact with me! C+H is ok I really like cuddling ;) and whisper to interact!!  </code>**
+<p align="center"> **<code style="color : #292739"> if you like f1 please interact with me! C+H is ok I really like cuddling ;) and whisper to interact!!  </code>** </p>
 
 <p> SEEU SONG BREAK!!!</p>
 
