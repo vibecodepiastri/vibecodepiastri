@@ -6,6 +6,14 @@
 
 <p align="center"> <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2RhMjI5cjRvbjY2MDdxNzI5cmx1dTQxeGw2bHJvamJtamk2MmhtNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L2W1uHP3SMjRhfk0dk/giphy.gif" /> </p>
 
+<div align="center">
+<details>
+  <summary><img src="https://github.com/user-attachments/assets/da94d502-ffcf-4c96-9578-3e252e079cfc" width="100"><img src="https://github.com/user-attachments/assets/0edf6ce4-d2fc-46e5-bead-6afc86a1bf72" width="133"></summary>
+  <br>
+  Fandoms; formula 1, my singing monsters, umamusume, glitch shows and a lot more!
+</details>
+</div>
+
 <p align="center"> hiya, im Iris! </p>
 <p align="center"> i normally wait to be noticed by ppl so dont think that i wont answer any whispers ;DD </p>
 <p align="center"> i’m an artist and a professional dummy! </p>
