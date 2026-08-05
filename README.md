@@ -22,7 +22,7 @@
 
 <p align="center"> 
   <a href="https://oscarpiastri.com" target="_blank">
-  <img src="https://github.com/user-attachments/assets/425986b0-439c-434c-9d12-ea1dbdd58878" alt="mi strawpage" width="48%">
+  <img width="350" height="350" src="https://github.com/user-attachments/assets/a758815e-a8e7-4fd6-9d82-8f5158d515f3" alt="oscars helmet gif!! i made ts" width="48%">
 </a>
 
 <p align="center"> click the helmet!! </p>
