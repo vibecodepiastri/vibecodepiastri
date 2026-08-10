@@ -10,7 +10,7 @@
 <details>
   <summary><img src="https://github.com/user-attachments/assets/da94d502-ffcf-4c96-9578-3e252e079cfc" width="100"><img src="https://github.com/user-attachments/assets/0edf6ce4-d2fc-46e5-bead-6afc86a1bf72" width="133"></summary>
   <br>
-  Fandoms; formula 1, my singing monsters, umamusume, glitch shows and a lot more!
+  Fandoms; formula 1, my singing monsters, umamusume, percy jackson and the olympians and a lot more!
 </details>
 </div>
 
