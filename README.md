@@ -7,6 +7,11 @@
 <p align="center"> <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2RhMjI5cjRvbjY2MDdxNzI5cmx1dTQxeGw2bHJvamJtamk2MmhtNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L2W1uHP3SMjRhfk0dk/giphy.gif" /> </p>
 
 <div align="center"> ponytowns #1 oscar piastri fan!! </div>
+<p align="center">
+  <a href="https://github.com/pt-hall-of-media" target="_blank">
+  <img width="600" height="150" alt="IMG_5611" src="https://github.com/user-attachments/assets/18987cfc-18b8-4519-9952-b75ca40dd1aa" />
+  </a>
+</p>
 
 <div align="center">
 <details>
