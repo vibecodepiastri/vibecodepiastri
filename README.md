@@ -6,6 +6,8 @@
 
 <p align="center"> <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2RhMjI5cjRvbjY2MDdxNzI5cmx1dTQxeGw2bHJvamJtamk2MmhtNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L2W1uHP3SMjRhfk0dk/giphy.gif" /> </p>
 
+<div align="center"> ponytowns #1 oscar piastri fan!!(thanks ponytown hof!!!) </div>
+
 <div align="center">
 <details>
   <summary><img src="https://github.com/user-attachments/assets/da94d502-ffcf-4c96-9578-3e252e079cfc" width="100"><img src="https://github.com/user-attachments/assets/0edf6ce4-d2fc-46e5-bead-6afc86a1bf72" width="133"></summary>
