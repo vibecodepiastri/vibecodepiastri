@@ -6,13 +6,6 @@
 
 <p align="center"> <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2RhMjI5cjRvbjY2MDdxNzI5cmx1dTQxeGw2bHJvamJtamk2MmhtNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L2W1uHP3SMjRhfk0dk/giphy.gif" /> </p>
 
-<div align="center"> ponytowns #1 oscar piastri fan!! </div>
-<p align="center">
-  <a href="https://github.com/pt-hall-of-media" target="_blank">
-  <img width="600" height="150" alt="IMG_5611" src="https://github.com/user-attachments/assets/18987cfc-18b8-4519-9952-b75ca40dd1aa" />
-  </a>
-</p>
-
 <div align="center">
 <details>
   <summary><img src="https://github.com/user-attachments/assets/da94d502-ffcf-4c96-9578-3e252e079cfc" width="100"><img src="https://github.com/user-attachments/assets/0edf6ce4-d2fc-46e5-bead-6afc86a1bf72" width="133"></summary>
@@ -33,6 +26,14 @@
 </a>
 
 <p align="center"> click the helmet!! </p>
+
+<div align="center"> ponytowns #1 oscar piastri fan!! (click the pic if ya wanna look at the hall of media) </div>
+<p align="center">
+  <a href="https://github.com/pt-hall-of-media" target="_blank">
+  <img width="600" height="150" alt="IMG_5611" src="https://github.com/user-attachments/assets/18987cfc-18b8-4519-9952-b75ca40dd1aa" />
+  </a>
+</p>
+
 
 <p> SEEU SONG BREAK!!!</p>
 
