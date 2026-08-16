@@ -27,7 +27,7 @@
 
 <p align="center"> click the helmet!! </p>
 
-<div align="center"> ponytowns #1 oscar piastri fan!! (click the pic if ya wanna look at the hall of media) </div>
+<div align="center"> ponytowns #1 oscar piastri fan!! (click the pic below this if ya wanna look at the hall of media) </div>
 <p align="center">
   <a href="https://github.com/pt-hall-of-media" target="_blank">
   <img width="600" height="150" alt="IMG_5611" src="https://github.com/user-attachments/assets/18987cfc-18b8-4519-9952-b75ca40dd1aa" />
