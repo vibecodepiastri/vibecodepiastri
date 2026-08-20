@@ -16,7 +16,6 @@
 
 <p align="center"> hiya, im Iris! </p>
 <p align="center"> i normally wait to be noticed by ppl so dont think that i wont answer any whispers ;DD </p>
-<p align="center"> i’m an artist and a professional dummy! </p>
 
 <p align="center"> **<code style="color : #292739"> if you like f1 please interact with me! C+H is ok I really like cuddling ;) and whisper to interact!!  </code>** </p>
 
@@ -41,10 +40,5 @@ https://github.com/user-attachments/assets/e424bb0e-c8dd-4972-b0dd-f32a8b42962a
 
 <p>credits to GaGain-P on YouTube for this masterpiece!!</p>
 
-<p align="center"> oh and also my fav drivers excluding osc are mark webber and jenson button :) </p>
-
 <img width="100" height="100" alt="pony-town-safk, w2i!! {f1oc} c+h 👍-dance-sit-blinking-padded-4x" src="https://github.com/user-attachments/assets/77de9f01-37dd-4e38-9d20-facb15b0a20c" />
 < lil dancey dance ^^
-
-
-since you visited my profile, here’s a cookie 🍪 kbaiiii!!
