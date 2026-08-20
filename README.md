@@ -34,11 +34,3 @@
 </p>
 
 
-<p> SEEU SONG BREAK!!!</p>
-
-https://github.com/user-attachments/assets/e424bb0e-c8dd-4972-b0dd-f32a8b42962a
-
-<p>credits to GaGain-P on YouTube for this masterpiece!!</p>
-
-<img width="100" height="100" alt="pony-town-safk, w2i!! {f1oc} c+h 👍-dance-sit-blinking-padded-4x" src="https://github.com/user-attachments/assets/77de9f01-37dd-4e38-9d20-facb15b0a20c" />
-< lil dancey dance ^^
