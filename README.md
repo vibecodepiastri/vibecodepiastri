@@ -8,7 +8,10 @@
 
 <div align="center">
 <details>
-  <summary><img src="https://github.com/user-attachments/assets/da94d502-ffcf-4c96-9578-3e252e079cfc" width="100"><img src="https://github.com/user-attachments/assets/0edf6ce4-d2fc-46e5-bead-6afc86a1bf72" width="133"></summary>
+  <summary>
+    <img width="166" alt="Untitled474_20260804185756" src="https://github.com/user-attachments/assets/26df57c6-75e4-4fbe-b3eb-b2772d8f24a7" />
+    <img width="166" alt="Untitled474_20260804183127" src="https://github.com/user-attachments/assets/e57403ef-9ad3-47fe-bd55-bbae1998ab7d" />
+</summary>
   <br>
   Fandoms; formula 1, animal jam, umamusume, percy jackson and the olympians, my singing monsters, severance and a lot more!
 </details>
@@ -21,7 +24,7 @@
 
 <p align="center"> 
   <a href="https://oscarpiastri.com" target="_blank">
-  <img width="350" height="350" src="https://github.com/user-attachments/assets/a758815e-a8e7-4fd6-9d82-8f5158d515f3" alt="oscars helmet gif!! i made ts" width="48%">
+  <img width="350" height="350" src="https://github.com/user-attachments/assets/e23ced1c-1920-42e7-b628-78992cd774f5" alt="oscars helmet gif!! i made ts" width="48%">
 </a>
 
 <p align="center"> click the helmet!! </p>
