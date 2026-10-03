@@ -1,4 +1,4 @@
-<p align="center"> <img src=https://komarev.com/ghpvc/?username=vibecodepiastri&color=FF8000&label=op81&style=plastic&abbreviated=true"/> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=vibecodepiastri&color=FF8000&label=op81&style=plastic&abbreviated=true"/> </p>
 
 <div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bitcount+Prop+Single&duration=3000&pause=1000&color=F7AD42&center=true&width=435&lines=Enjoy+the+butterflies%2C;enjoy+being+na%C3%AFve.;Enjoy+the+nerves%2C+the+pressure%2C;people+not+knowing+your+name.;Enjoy+the+process;of+making+a+name+for+yourself." alt="Typing SVG" /></a>
