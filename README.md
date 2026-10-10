@@ -39,4 +39,5 @@
   <img src="https://blinkies.cafe/b/blinkiesCafe-sq.gif"/>
   <img src="https://blinkies.cafe/b/blinkiesCafe-sY.gif"/>
   <img src="https://blinkies.cafe/b/blinkiesCafe-9d.gif"/>
+  <img src="https://blinkies.cafe/b/blinkiesCafe-Yc.gif"/>
 </p>
