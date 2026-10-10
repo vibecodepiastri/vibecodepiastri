@@ -35,3 +35,8 @@
   <img width="600" height="150" alt="IMG_5611" src="https://github.com/user-attachments/assets/3db2849b-6909-4194-9ba9-397c114de64e" />
   </a>
 </p>
+<p align="center">
+  <img src="https://blinkies.cafe/b/blinkiesCafe-sq.gif"/>
+  <img src="https://blinkies.cafe/b/blinkiesCafe-sY.gif"/>
+  <img src="https://blinkies.cafe/b/blinkiesCafe-9d.gif"/>
+</p>
